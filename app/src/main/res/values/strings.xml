@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">ProyectoMovil</string>
     <string name="title_logo">Ugel 8 cañete</string>
+    <string name="input_password">Password</string>
+    <string name="input_user">Usuario</string>
+    <string name="btnLogin">INGRESAR</string>
 </resources>
