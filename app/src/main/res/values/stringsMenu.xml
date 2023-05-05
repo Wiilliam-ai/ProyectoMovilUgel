@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_salir">SALIR</string>
+    <string name="btn_documentos">Documentos</string>
+    <string name="btn_reuniones">Reuniones</string>
+    <string name="btn_contratos">Contratos</string>
+</resources>
